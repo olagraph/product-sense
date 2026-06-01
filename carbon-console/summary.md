@@ -8,8 +8,8 @@ Ola | 31-May-2026
 
 ## Overview
 
-A dashboard to explore carbon removal activity across Canada.
-Offers multiple views — by project, company, technology, and location.
+A dashboard to explore carbon removal activity across Canada.  
+Offers multiple views — by project, company, technology, and location.  
 Designed for policymakers, investors, and researchers.
 
 [View product →](link-here)
@@ -41,9 +41,9 @@ The dashboard excels at descriptive questions but falls short on insights that d
 
 ## Top priorities
 
-1. **Split progress by phase** — Enable insights on project-specific dynamics
-2. **Surface status updates** — Highlight delays, lags, and exemplars across the ecosystem
-3. **Integrate a news pipeline** — Reduce manual research burden; keep data contextualized
+1. **Split progress by phase** to enable insights on project-specific dynamics
+2. **Highlight status updates** to reveal trends, risks, and opportunities across the ecosystem
+3. **Integrate a news pipeline** to reduce manual research burden; keep data contextualized
 
 See `/improvements` for sketches and alternatives.
 
