@@ -15,7 +15,7 @@ Each product lives in its own folder:
 ### Teardowns
 
 | Product | Category | Summary | Folder |
-|---------|----------|---------|--------|
+|:---|:---|:---|:---|
 | Carbon Console | Dashboard | Tracking carbon removal in Canada  | `/carbon-console` |
 
 
