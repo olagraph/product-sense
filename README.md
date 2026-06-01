@@ -6,7 +6,7 @@ Structured reviews of data products built for public good — how they work, wha
 ### How it's Organized
 
 Each product lives in its own folder:
-- `summary.md` — The main teardown (structured analysis)
+- `review-summary.md` — The main teardown (structured analysis)
 - `/artifacts` — Screenshots, flows, and mockups from the product
 - `/improvements` — Brainstorms, wireframes, and alternative approaches
 - `/posted` — Linked issues posted on the original repo, where applicable
