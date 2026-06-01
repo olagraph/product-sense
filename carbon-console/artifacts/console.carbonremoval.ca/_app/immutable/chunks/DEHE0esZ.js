@@ -1,0 +1,1 @@
+import"./CWj6FrbW.js";import{f as o,d as s,r as i,b as d}from"./AFOmQOge.js";import{C as m}from"./6Fy73ASI.js";var p=o('<div class="text-xs text-black/60"><!></div>');function x(r,a){var t=p(),e=s(t);m(e,{get key(){return a.key}}),i(t),d(r,t)}export{x as L};

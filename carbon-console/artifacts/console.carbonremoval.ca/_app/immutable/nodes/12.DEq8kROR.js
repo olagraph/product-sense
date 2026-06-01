@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p as t,c as a}from"../chunks/AFOmQOge.js";import{P as e}from"../chunks/LaZsLc3h.js";function m(r,o){t(o,!0),e(r,{role:"base",get data(){return o.data.province}}),a()}export{m as component};

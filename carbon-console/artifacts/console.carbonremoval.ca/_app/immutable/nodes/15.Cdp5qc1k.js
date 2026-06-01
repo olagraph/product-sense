@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{p as a,c as e}from"../chunks/AFOmQOge.js";import{T as r}from"../chunks/Di_n2_3x.js";function c(t,o){a(o,!0),r(t,{role:"base",get data(){return o.data.technology}}),e()}export{c as component};

@@ -1,0 +1,1 @@
+import"./CWj6FrbW.js";import{f as s,d as e,g as n,r as d,b as h}from"./AFOmQOge.js";var i=s('<h3 class="font-heading text-sm font-bold text-black/70"><!></h3>');function l(a,o){var t=i(),r=e(t);n(r,()=>o.children),d(t),h(a,t)}export{l as H};
