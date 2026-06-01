@@ -49,7 +49,7 @@ See `/improvements` for sketches and alternatives.
 ## Potential impact
 
 | Metric | Current | Target | Outcome |
-|--------|---------|--------|---------|
+|:---|:---|:---|:---|
 | Coverage of common questions | 20% | 80% | More actionable insights |
 | Active recurring usage | Low | High | Stronger referrals & biz dev ROI |
 | Ecosystem influence | Limited | Broader | Data drives policy and investment decisions |
