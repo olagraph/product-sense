@@ -1,11 +1,8 @@
-## Carbon Console by Carbon Removal Canada
-
-Ola | 31-May-2026
-
-
 # Carbon Console
 
 **Tracking carbon removal in Canada**
+
+Ola | 31-May-2026
 
 ---
 
