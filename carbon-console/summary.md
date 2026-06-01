@@ -12,7 +12,7 @@ A dashboard to explore carbon removal activity across Canada.
 Offers multiple views — by project, company, technology, and location.  
 Designed for policymakers, investors, and researchers.
 
-[View product →](link-here)
+[View product →](./carbon-console/artifacts/carbon-console.mhtml)
 
 
 ## What it gets right
