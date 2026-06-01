@@ -28,4 +28,4 @@ I'm Ola, a data product strategist focused on building usable data tools for pub
 
 ### License
 
-MIT — See [LICENSE](./LICENSEl.md) for details.
+MIT — See [LICENSE](./LICENSE.md) for details.
