@@ -3,46 +3,56 @@
 Ola | 31-May-2026
 
 
-#### What is it? TL;DR
+# Carbon Console
 
-A dashboard tracking carbon removal in Canada [link here]
-Offers multiple views - project, company, technology, and location
-Intended for policymakers, investors, and researchers
+**Tracking carbon removal in Canada**
 
+---
 
-#### What does it get right?
+## Overview
 
-Rich metadata. Includes overview, capacity, year, status
-Option to compare side-by-side
-Simple inteface + easy-to-navigate
-Great for answering basic questions like 'what', 'where', and 'how many'
+A dashboard offering multiple views—by project, company, technology, and location—designed for policymakers, investors, and researchers to explore carbon removal activity across Canada.
+
+[View product →](link-here)
 
 
-#### What's missing?
+## What it gets right
 
-Insights for common scenarios:
-**A policymaker**, deliberating the current regulatory framework, might ask:
-+ q1 - What's slowing down progress on carbon removal in our province ... is there a permitting bottleneck?
-+ q2 - What has changed since the Spring of 2024 when we introduced the Bill-XX?
-**An investor** exploring the carbon removal vertical might want to know:
-+ q3 - Where are the investment hotspots? Which companies, projects have gained the most traction in the last three years?
-+ q4 - How long does it take for an average project to go from fundraise to fully operational?
-**A researcher** studying the empirical evidence on Carbon Removal in Canada might be curious:
-+ q5 - Is there evidence to suggest we are ramping down the technology learning curve?
-+ q6 - How has the rate of project buildout improved across technologies?
+- **Rich metadata.** Project overview, capacity, year, status all readily available.
+- **Comparison view.** Side-by-side analysis of projects.
+- **Simple, navigable interface.** Easy to explore and answer basic questions: *What? Where? How many?*
 
 
-#### Top three things I'll prioritize?
+## What's missing
 
-1 - Split progress by phase. For insights on project specifics
-2 - Recount status updates. To surfcae delays, lags, and exemplars
-3 - Integrate a news pipeline. Reducing manual research
+The dashboard excels at descriptive questions but falls short on insights that drive decisions:
 
-For quick ideas of what a next version might look like, see improvement `/improvements`
+**For policymakers** deliberating regulatory frameworks:
+- Q1: What's slowing progress in our province? Is there a permitting bottleneck?
+- Q2: What has changed since Bill-XX was introduced (Spring 2024)?
+
+**For investors** exploring the carbon removal vertical:
+- Q3: Where are the investment hotspots? Which companies/projects have gained the most traction in the last three years?
+- Q4: How long does an average project take from fundraise to fully operational?
+
+**For researchers** studying carbon removal in Canada:
+- Q5: Is there evidence we're moving down the technology learning curve?
+- Q6: How has the rate of project buildout improved across technologies?
 
 
-#### Potential impact
+## Top priorities
 
-Improve coverage of common questions | 20 -> 80% 
-Increase active recurring usage. Improve referals and biz dev ROI
-Influence greater decisions across the Carbon Removal ecosystem. 
+1. **Split progress by phase** — Enable insights on project-specific dynamics
+2. **Surface status updates** — Highlight delays, lags, and exemplars across the ecosystem
+3. **Integrate a news pipeline** — Reduce manual research burden; keep data contextualized
+
+See `/improvements` for sketches and alternatives.
+
+
+## Potential impact
+
+| Metric | Current | Target | Outcome |
+|--------|---------|--------|---------|
+| Coverage of common questions | 20% | 80% | More actionable insights |
+| Active recurring usage | Low | High | Stronger referrals & biz dev ROI |
+| Ecosystem influence | Limited | Broader | Data drives policy and investment decisions |
