@@ -50,8 +50,4 @@ See `/improvements` for sketches and alternatives.
 
 ## Potential impact
 
-| Metric | Current | Target | Outcome |
-|:---|:---|:---|:---|
-| Coverage of common questions | 20% | 80% | More actionable insights |
-| Active recurring usage | Low | High | Stronger referrals & biz dev ROI |
-| Ecosystem influence | Limited | Broader | Data drives policy and investment decisions |
+Crucial questions are currently unanswerable without leaving the console (e.g Q1 - Q6). Full implementation of suggested changes will close most of that gap, reducing manual research burden and giving the console a reason for recurring use beyond one-time lookups.
