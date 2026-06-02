@@ -24,7 +24,7 @@ Designed for policymakers, investors, and researchers.
 
 ## What's missing
 
-The dashboard excels at descriptive questions but falls short on insights that drive decisions:
+The console excels at descriptive questions but falls short on insights that drive decisions:
 
 **For policymakers** deliberating regulatory frameworks:
 - Q1: What's slowing progress in our province? Is there a permitting bottleneck?
