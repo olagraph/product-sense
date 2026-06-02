@@ -41,9 +41,9 @@ The dashboard excels at descriptive questions but falls short on insights that d
 
 ## Top priorities
 
-1. **Lead with the key insights** so users get a snapshot answer in few steps
-2. **Get granular on project cost and status** as these are the levers to understand trends, risks, and opportunities
-3. **Enrich the context** to reduce manual research burden and surface project-specific insights
+1. **Lead with the key insights** - so users get a snapshot answer in few steps
+2. **Get granular on project cost & status** - these are the levers to understand trends, risks, and opportunities
+3. **Enrich the context** - to reduce manual research burden and surface project-specific insights
 
 See `/improvements` for sketches and alternatives.
 
