@@ -1,11 +1,18 @@
-# Carbon Console
-**Tracking carbon removal in Canada**
+# Carbon Console  
+**Tracking carbon removal in Canada**  
+
+
 Ola | 02-Jun-2026
----
+
+
 ## Overview
 A dashboard to explore carbon removal activity across Canada.  
-Offers multiple views — by project, company, technology, and location — designed for policymakers, investors, and researchers.
+Offers multiple views — by project, company, technology, and location — designed for policymakers, investors, and researchers.  
 
+  
+[View product →](https://olagraph.github.io/product-sense/carbon-console/artifacts/carbon-console.mhtml)  
+
+  
 ## What it gets right
 - **Context.** Project overview, capacity, year, status included.
 - **Comparison view.** Side-by-side analysis of projects.
