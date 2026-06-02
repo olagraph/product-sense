@@ -45,7 +45,11 @@ The dashboard excels at descriptive questions but falls short on insights that d
 2. **Get granular on project cost & status** - these are the levers to understand trends, risks, and opportunities
 3. **Enrich the context** - to reduce manual research burden and surface project-specific insights
 
-See `/improvements` for sketches and alternatives.
+See `/improvements` for samples and alternatives.
+
+<a href="path/to/large-image.png">
+  <img src="path/to/large-image.png" width="200" alt="Click to enlarge">
+</a>
 
 
 ## Potential impact
