@@ -8,7 +8,7 @@ Ola | 31-May-2026
 
 ## Overview
 
-A dashboard to explore carbon removal activity across Canada.  
+A first-of-its-kind dashboard to explore carbon removal activity across Canada.  
 Offers multiple views — by project, company, technology, and location.  
 Designed for policymakers, investors, and researchers.
 
