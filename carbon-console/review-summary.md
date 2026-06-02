@@ -47,8 +47,8 @@ The console excels at descriptive questions but falls short on insights that dri
 
 See `/improvements` for samples and alternatives.
 
-<a href="path/to/large-image.png">
-  <img src="path/to/large-image.png" width="200" alt="Click to enlarge">
+<a href="carbon-console/improvements/current-vs-reimagined.png">
+  <img src="carbon-console/improvements/current-vs-reimagined.png" width="200" alt="Click to enlarge">
 </a>
 
 
