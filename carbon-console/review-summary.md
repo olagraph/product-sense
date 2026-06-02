@@ -17,7 +17,7 @@ Designed for policymakers, investors, and researchers.
 
 ## What it gets right
 
-- **Rich metadata.** Project overview, capacity, year, status all readily available.
+- **Context.** Project overview, capacity, year, status included.
 - **Comparison view.** Side-by-side analysis of projects.
 - **Simple, navigable interface.** Easy to explore and answer basic questions: *Where? What? How many?*
 
