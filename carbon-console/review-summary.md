@@ -1,30 +1,18 @@
 # Carbon Console
-
 **Tracking carbon removal in Canada**
-
-Ola | 31-May-2026
-
+Ola | 02-Jun-2026
 ---
-
 ## Overview
-
-A first-of-its-kind dashboard to explore carbon removal activity across Canada.  
-Offers multiple views — by project, company, technology, and location.  
-Designed for policymakers, investors, and researchers.
-
-[View product →](https://olagraph.github.io/product-sense/carbon-console/artifacts/carbon-console.mhtml)
-
+A dashboard to explore carbon removal activity across Canada.  
+Offers multiple views — by project, company, technology, and location — designed for policymakers, investors, and researchers.
 
 ## What it gets right
-
 - **Context.** Project overview, capacity, year, status included.
 - **Comparison view.** Side-by-side analysis of projects.
 - **Simple, navigable interface.** Easy to explore and answer basic questions: *Where? What? How many?*
 
-
 ## What's missing
-
-The console excels at descriptive questions but falls short on insights that drive decisions:
+The console excels at descriptive questions but falls short on the insights that drive decisions:
 
 **For policymakers** deliberating regulatory frameworks:
 - Q1: What's slowing progress in our province? Is there a permitting bottleneck?
@@ -38,20 +26,19 @@ The console excels at descriptive questions but falls short on insights that dri
 - Q5: Is there evidence we're moving down the technology learning curve?
 - Q6: How has the rate of project buildout improved across technologies?
 
+The console is in its early days (less than a year old), and it faces real constraints, including limited access to robust high quality data.
+
+In future iterations, however, a few additions are worth prioritizing.
 
 ## Top priorities
-
 1. **Enrich the context** - to reduce manual research burden and deliver on core value proposition
 2. **Get granular on project cost, status, and highlights** - these are the levers to understand trends, risks, and opportunities
-3. **Optimize the informatioin hierarchy** - so users get a snapshot answer in few steps
+3. **Optimize the information hierarchy** - so users get a snapshot answer in few steps
 
 See `/improvements` for samples and alternatives.
-
 <a href="improvements/current-vs-reimagined.png">
   <img src="improvements/current-vs-reimagined.png" width="200" alt="Click to enlarge">
 </a>
 
-
 ## Potential impact
-
-Crucial questions are currently unanswerable without leaving the console (e.g Q1 - Q6). The suggested changes could close most of that gap, reducing manual research burden and giving the console a reason for recurring use beyond one-time lookups.
+All six questions above are currently unanswerable without leaving the console. The suggested changes could close most of that gap, reducing manual research burden and turning the console into a tool people return to, not just a one-time reference.
