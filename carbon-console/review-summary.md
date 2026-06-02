@@ -41,8 +41,8 @@ The console excels at descriptive questions but falls short on insights that dri
 
 ## Top priorities
 
-1. **Enrich the context** - to reduce manual research burden and surface project-specific insights across common questions
-2. **Get granular on project cost & status** - these are the levers to understand trends, risks, and opportunities
+1. **Enrich the context** - to reduce manual research burden and deliver on core value proposition
+2. **Get granular on project cost, status, and highlights** - these are the levers to understand trends, risks, and opportunities
 3. **Optimize the informatioin hierarchy** - so users get a snapshot answer in few steps
 
 See `/improvements` for samples and alternatives.
