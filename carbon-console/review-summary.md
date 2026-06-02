@@ -41,9 +41,9 @@ The console excels at descriptive questions but falls short on insights that dri
 
 ## Top priorities
 
-1. **Lead with the key insights** - so users get a snapshot answer in few steps
+1. **Enrich the context** - to reduce manual research burden and surface project-specific insights across common questions
 2. **Get granular on project cost & status** - these are the levers to understand trends, risks, and opportunities
-3. **Enrich the context** - to reduce manual research burden and surface project-specific insights
+3. **Optimize the informatioin hierarchy** - so users get a snapshot answer in few steps
 
 See `/improvements` for samples and alternatives.
 
@@ -54,4 +54,4 @@ See `/improvements` for samples and alternatives.
 
 ## Potential impact
 
-Crucial questions are currently unanswerable without leaving the console (e.g Q1 - Q6). Full implementation of suggested changes will close most of that gap, reducing manual research burden and giving the console a reason for recurring use beyond one-time lookups.
+Crucial questions are currently unanswerable without leaving the console (e.g Q1 - Q6). The suggested changes could close most of that gap, reducing manual research burden and giving the console a reason for recurring use beyond one-time lookups.
